@@ -2,19 +2,19 @@
 
 I am an author, sociologist, educator, coder, and nuclear medicine technologist. 
 
-        <div style="margin: 0 auto;">
-            <a href="http://feeds.feedburner.com/Ideatrash" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/rss-solid.svg"></a>
-            <a href="https://faithcollapsing.com/users/StevenSaus" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/mastodon.svg"></a>
-            <a href="http://www.facebook.com/pages/Steven-Saus/328725503674" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/facebook-f.svg"></a>
-            <a href="http://www.twitter.com/uriel1998" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/twitter.svg"></a>
-            <a href="https://www.instagram.com/uriel1998/" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/instagram.svg"></a>
-            <a href="http://www.goodreads.com/author/show/3145527.Steven_Saus" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/goodreads.svg"></a>
-            <a href="https://git.faithcollapsing.com" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/git.svg"></a>
-            <a href="https://github.com/uriel1998" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/github.svg"></a>
-            <a href="https://gitlab.com/uriel1998" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/gitlab.svg"></a>
-            <a href="http://www.linkedin.com/in/stevensaus" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/linkedin-in.svg"></a>
-            <a href="https://www.amazon.com/author/stevensaus" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/amazon.svg"></a>
-        </div>
+<div style="margin: 0 auto;">
+<a href="http://feeds.feedburner.com/Ideatrash" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/rss-solid.svg"></a>
+<a href="https://faithcollapsing.com/users/StevenSaus" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/mastodon.svg"></a>
+<a href="http://www.facebook.com/pages/Steven-Saus/328725503674" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/facebook-f.svg"></a>
+<a href="http://www.twitter.com/uriel1998" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/twitter.svg"></a>
+<a href="https://www.instagram.com/uriel1998/" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/instagram.svg"></a>
+<a href="http://www.goodreads.com/author/show/3145527.Steven_Saus" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/goodreads.svg"></a>
+<a href="https://git.faithcollapsing.com" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/git.svg"></a>
+<a href="https://github.com/uriel1998" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/github.svg"></a>
+<a href="https://gitlab.com/uriel1998" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/gitlab.svg"></a>
+<a href="http://www.linkedin.com/in/stevensaus" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/linkedin-in.svg"></a>
+<a href="https://www.amazon.com/author/stevensaus" target="_blank"><img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/amazon.svg"></a>
+</div>
 
 
 
@@ -123,5 +123,3 @@ U.S. Army, Fort Leonard Wood, MO <span>•</span> *2000 - 2002*
 
 Nuclear Medicine Department, U.S. Army, Fort Leonard Wood <span>•</span>
 *2000 - 2002*
-
-
