@@ -29,46 +29,48 @@ someone who is better at such than I can easily tweak them.
 # Some (more than six!) repositories I'm especially happy with.
 https://uriel1998.github.io/tdab/
 
-<a target="_blank" href="https://uriel1998.github.io/tdab">tdab
-</a>
-<a target="_blank" href="https://uriel1998.github.io/agaetr">agaetr
-</a>
-<a target="_blank" href="https://uriel1998.github.io/automatic_wondershaper_wombat">automatic_wondershaper_wombat
-</a>
-<a target="_blank" href="https://uriel1998.github.io/ddwrt-who-is-connected">ddwrt-who-is-connected
-</a>
-<a target="_blank" href="https://uriel1998.github.io/khalo">khalo
-</a>
-<a target="_blank" href="https://uriel1998.github.io/mpdq">mpdq
-</a>
-<a target="_blank" href="https://uriel1998.github.io/muna">muna
-</a>
-<a target="_blank" href="https://uriel1998.github.io/newsbeuter-dangerzone">newsbeuter-dangerzone
-</a>
-<a target="_blank" href="https://uriel1998.github.io/orindi">orindi
-</a>
-<a target="_blank" href="https://uriel1998.github.io/ppl_virdirsyncer_addysearch">ppl_virdirsyncer_addysearch
-</a>
-<a target="_blank" href="https://uriel1998.github.io/quite-intriguing">quite-intriguing
-</a>
-<a target="_blank" href="https://uriel1998.github.io/quotable">quotable
-</a>
-<a target="_blank" href="https://uriel1998.github.io/showdocs-wombat">showdocs-wombat
-</a>
-<a target="_blank" href="https://uriel1998.github.io/skipa">skipa
-</a>
-<a target="_blank" href="https://uriel1998.github.io/surfraw_ob">surfraw_ob
-</a>
-<a target="_blank" href="https://uriel1998.github.io/thuit">thuit
-</a>
-<a target="_blank" href="https://uriel1998.github.io/ufw-iptables-archer">ufw-iptables-archer
-</a>
-<a target="_blank" href="https://uriel1998.github.io/vindauga">vindauga
-</a>
-<a target="_blank" href="https://uriel1998.github.io/weather.sh">weather.sh
-</a>
-<a target="_blank" href="https://uriel1998.github.io/yolo-mpd">yolo-mpd
-</a>
+<a target="_blank" href="https://uriel1998.github.io/tdab">tdab<img src="https://github.com/uriel1998/tdab/blob/master/tdab-icon.png"></a>
+a bit of text  
+Some text  
+
+<a target="_blank" href="https://uriel1998.github.io/agaetr">agaetr</a>
+
+<a target="_blank" href="https://uriel1998.github.io/automatic_wondershaper_wombat">automatic_wondershaper_wombat</a>
+
+<a target="_blank" href="https://uriel1998.github.io/ddwrt-who-is-connected">ddwrt-who-is-connected</a>
+
+<a target="_blank" href="https://uriel1998.github.io/khalo">khalo</a>
+
+<a target="_blank" href="https://uriel1998.github.io/mpdq">mpdq</a>
+
+<a target="_blank" href="https://uriel1998.github.io/muna">muna</a>
+
+<a target="_blank" href="https://uriel1998.github.io/newsbeuter-dangerzone">newsbeuter-dangerzone</a>
+
+<a target="_blank" href="https://uriel1998.github.io/orindi">orindi</a>
+
+<a target="_blank" href="https://uriel1998.github.io/ppl_virdirsyncer_addysearch">ppl_virdirsyncer_addysearch</a>
+
+<a target="_blank" href="https://uriel1998.github.io/quite-intriguing">quite-intriguing</a>
+
+<a target="_blank" href="https://uriel1998.github.io/quotable">quotable</a>
+
+<a target="_blank" href="https://uriel1998.github.io/showdocs-wombat">showdocs-wombat</a>
+
+<a target="_blank" href="https://uriel1998.github.io/skipa">skipa</a>
+
+<a target="_blank" href="https://uriel1998.github.io/surfraw_ob">surfraw_ob</a>
+
+<a target="_blank" href="https://uriel1998.github.io/thuit">thuit</a>
+
+<a target="_blank" href="https://uriel1998.github.io/ufw-iptables-archer">ufw-iptables-archer</a>
+
+<a target="_blank" href="https://uriel1998.github.io/vindauga">vindauga</a>
+
+<a target="_blank" href="https://uriel1998.github.io/weather.sh">weather.sh</a>
+
+<a target="_blank" href="https://uriel1998.github.io/yolo-mpd">yolo-mpd</a>
+
 
 Cards via [GitHub-ReadMe-Stats](https://github.com/anuraghazra/github-readme-stats)  
 
