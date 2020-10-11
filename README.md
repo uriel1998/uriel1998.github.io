@@ -1,9 +1,6 @@
-# uriel1998.github.io
-GitHub Pages
+# Steven Saus
 
-# I'm Steven Saus.
-
-I am an <span>author</span>, <span>sociologist</span>, <span>educator</span>, <span>coder</span>, and <span>nuclear medicine technologist</span>. 
+I am an author, sociologist, educator, coder, and nuclear medicine technologist. 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/?username=uriel1998&include_all_commits=yes&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,6 +15,7 @@ I am an <span>author</span>, <span>sociologist</span>, <span>educator</span>, <s
 <img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/gitlab.svg"><a href="https://gitlab.com/uriel1998" target="_blank"></a>
 <img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/linkedin-in.svg"><a href="http://www.linkedin.com/in/stevensaus" target="_blank"></a>
 <img width=32px height=32px src="https://raw.githubusercontent.com/uriel1998/uriel1998/main/icons/amazon.svg"><a href="https://www.amazon.com/author/stevensaus" target="_blank"></a>
+
 
 ## About Me
 
@@ -70,9 +68,11 @@ someone who is better at such than I can easily tweak them.
 
 Cards via [GitHub-ReadMe-Stats](https://github.com/anuraghazra/github-readme-stats)  
 
+# Educational Experience
+
 ### Master of Arts in Applied Behavioral Science
 
-Wright State University<span>•</span> *June 2009*
+Wright State University <span>•</span> *June 2009*
 
 ### Bachelor of Arts in Sociology
 
@@ -90,67 +90,29 @@ Fort Knox Non-Commissioned Officers Academy <span>•</span> *March 2011*
 
 Army Academy of Health Sciences <span>•</span> *June 1995*
 
+# Professional Experience
+
 ### Nuclear Medicine Technologist
 
 Miami Valley Hospital, Dayton OH <span>•</span> *2002 - Present*
-
-  - Develop Xeleris computer interfaces for staff, increasing efficiency
-    while respecting user abilities
-  - Create and maintained internal web site for employee use in a
-    production environment
-  - Adapt medical, educational, and technical guides to communicate
-    detailed processes clearly to lay readers
-  - Develop and implement quality control programs, resulting in a 26.5%
-    reduction of errors
-  - Evaluate efficiency of patient scheduling, increasing patient load
-    by 75% without increasing man-hours
 
 ### Publisher/Owner
 
 Alliteration Ink, Dayton OH <span>•</span> *2011 - 2019*
 
-  - Created audio, video, and text content to reach multiple target
-    audiences via social media
-  - Evaluated and exploit market conditions in the rapidly changing
-    field of digital and print publishing
-  - Created and maintaine accessible and SEO optimized web presence,
-    including e-commerce solutions
-  - Coordinated over 60 subject matter experts spanning five continents
-    for twelve projects
 
 ### Programming Director
 
 Context Convention, Fanaco Inc, Columbus OH <span>•</span> *2013 - 2014*
-
-  - Created online and print marketing strategy as part of the
-    convention committee
-  - Determined content needs for over 200 attendees for a three-day
-    convention
-  - Recruited over 40 international subject matter experts for a
-    three-day event
 
 ### Adjunct Faculty
 
 Department of Sociology, Wright State University <span>•</span> *2011 -
 2012*
 
-  - Redesigned research methods course to increase student motivation,
-    participation, and comprehension
-  - Instructed, guided, and supervised 129 students in creating and
-    executing original research projects
-  - Used distance learning techniques to provide instructional materials
-    to students with irregular schedules
-  - Designed and executed qualitative research projects uncovering
-    unrealized customer requirements
-
 ### Interim Supervisor, Nuclear Medicine Department
 
 U.S. Army, Fort Leonard Wood <span>•</span> *2000 - 2002*
-
-  - Initiated and performed retrospective reviews of patient studies
-    validating over 95% of physician referrals
-  - Coordinated ongoing in-service training for 15+ personnel in the
-    medical imaging department in a military environment
 
 ### Nuclear Medicine Technologist
 
@@ -162,4 +124,3 @@ Nuclear Medicine Department, U.S. Army, Fort Leonard Wood <span>•</span>
 *2000 - 2002*
 
 
-<span>Photo by <a href="https://unsplash.com/@drieaugu?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Dries Augustyns</a> on <a href="https://unsplash.com/s/photos/keyboard?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
