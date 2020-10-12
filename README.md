@@ -29,7 +29,8 @@ someone who is better at such than I can easily tweak them.
 # Some (more than six!) repositories I'm especially happy with.
 https://uriel1998.github.io/tdab/
 
-<div style="float:left !important; width=64px;height=64px"><a target="_blank" href="https://uriel1998.github.io/tdab"><img width="60px" src="https://github.com/uriel1998/tdab/raw/master/tdab-icon.png">#tdab</a></div>
+## <a target="_blank" href="https://uriel1998.github.io/tdab">tdab</a>  
+<div style="float:left !important; width=64px;height=64px"><a target="_blank" href="https://uriel1998.github.io/tdab"><img width="60px" src="https://github.com/uriel1998/tdab/raw/master/tdab-icon.png"></a></div>
 
 Machine intelligence and time-phase promote the enablers. Internally and externally, pipelines leverage our enhanced data capture. We will go the extra mile to champion the shareholder value. In the same time, the human resources commoditize our action items. The standard-setters action forward.
  
