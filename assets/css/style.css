@@ -12,4 +12,7 @@ margin: 0 auto !important;
     background: none !important;
 }
 
-
+p {
+float: left !important;
+margin: 0 auto !important;
+}
