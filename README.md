@@ -35,7 +35,7 @@ someone who is better at such than I can easily tweak them.
 
 Create side and top bars in tmux easily, along with a "devour" style command.
 
-<p><div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/agaetr"><img width="60px" src="https://github.com/uriel1998/agaetr/raw/master/agaetr-icon.png"></a></div>
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/agaetr"><img width="60px" src="https://github.com/uriel1998/agaetr/raw/master/agaetr-icon.png"></a></div>
 
 ## <a target="_blank" href="https://uriel1998.github.io/agaetr">agaetr</a>  
 
@@ -58,8 +58,7 @@ A script to output who all is actively connected to your DD-WRT router
 ## <a target="_blank" href="https://uriel1998.github.io/khalo">khalo</a>  
 
 A selfhosted way to create images with quotations using fortune, imgmagick, and 
-unsplash.it to provide your quotes with background images and create your own 
-quotation porn.  
+unsplash.it to create your own quotation porn.  
 
 <div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/mpdq"><img width="60px" src="https://github.com/uriel1998/mpdq/raw/master/mpdq-icon.png"></a></div>
 
@@ -84,7 +83,7 @@ anything that can pass a title and an URL to a program.
 
 ## <a target="_blank" href="https://uriel1998.github.io/orindi">orindi</a>  
 
-Transform your e-mail newsletters into webpages and an RSS feed. Uses pico as a front end. 
+Transform your e-mail newsletters into webpages and an RSS feed.   
 
 <div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/ppl_virdirsyncer_addysearch"><img width="60px" src="https://github.com/uriel1998/ppl_virdirsyncer_addysearch/raw/master/pplsearch-icon.png"></a></div>
 
@@ -120,7 +119,7 @@ Simplifying (I hope) UFW and iptables, includes a utility to get blocklists and 
 
 ## <a target="_blank" href="https://uriel1998.github.io/vindauga">vindauga</a>  
 
-Download and display album art or display embedded (or folder-based) album art using a bash script; a largely rewritten fork of kunst. Designed to work with MPD, the music player daemon.
+Download and display album art or display embedded (or folder-based) album art. Designed to work with MPD, the music player daemon.
 
 <div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/weather.sh"><img width="60px" src="https://github.com/uriel1998/weather.sh/raw/master/weather-icon.png"></a></div>
 
