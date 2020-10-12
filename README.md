@@ -1,5 +1,3 @@
-# Steven Saus
-
 ## About Me
 
 I have experience in qualitative and quantitative social research,
@@ -8,7 +6,8 @@ medical imaging (both X-ray and Nuclear Medicine), the military, web
 design, and programming experience in multiple languages, having self-taught
 myself what I know. I have been a frequent presenter and panelist at both 
 literary and academic conventions, and have professionally formatted and 
-published books in print and electronic formats.
+published books in print and electronic formats.  You can read more and find 
+links to the rest of the things I do over at my [main page](https://stevensaus.com), or at my [blog](https://ideatrash.net).  
 
 # Why I code
 
