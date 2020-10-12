@@ -37,11 +37,12 @@ Create side and top bars in tmux easily, along with a "devour" style command.</p
 ## <a target="_blank" href="https://uriel1998.github.io/agaetr">agaetr</a>  
 <div style="float:left !important; width=64px;height=64px"><a target="_blank" href="https://uriel1998.github.io/agaetr"><img width="60px" src="https://github.com/uriel1998/agaetr/raw/master/agaetr-icon.png"></a></div>
 
+Modular scripts to take text, images, and links from RSS feeds and push to social media 
 
 ## <a target="_blank" href="https://uriel1998.github.io/automatic_wondershaper_wombat">automatic_wondershaper_wombat</a>  
 <div style="float:left !important; width=64px;height=64px"><a target="_blank" href="https://uriel1998.github.io/automatic_wondershaper_wombat"><img width="60px" src="https://github.com/uriel1998/automatic_wondershaper_wombat/raw/master/automatic_wondershaper_wombat-icon.png"></a></div>
 
-Modular scripts to take text, images, and links from RSS feeds and push to social media 
+A script in bash (with some assorted tools) to collect info about available bandwidth and to perform traffic shaping  
 
 ## <a target="_blank" href="https://uriel1998.github.io/ddwrt-who-is-connected">ddwrt-who-is-connected</a>  
 <div style="float:left !important; width=64px;height=64px"><a target="_blank" href="https://uriel1998.github.io/ddwrt-who-is-connected"><img width="60px" src="https://github.com/uriel1998/ddwrt-who-is-connected/raw/master/ddwrt-who-is-connected-icon.png"></a></div>
