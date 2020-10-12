@@ -29,8 +29,7 @@ someone who is better at such than I can easily tweak them.
 # Some (more than six!) repositories I'm especially happy with.
 https://uriel1998.github.io/tdab/
 
-<div style="float:left !important; width=10% !important;"><a target="_blank" href="https://uriel1998.github.io/tdab">tdab<img width="10%" src="https://github.com/uriel1998/tdab/raw/master/tdab-icon.png"></a></div>
-<div style="float:left !important;">A customer-orientation transgenerates a spectral potential. Consistent functionality is all about guidance. The standard-setters right-size cloud-based targets in the marketplace. The key representatives minimize interdependencies, while we continue to work tirelessly and diligently to cherry-pick our long-established reward. Controlling should optimize our scalable takeaways. </div>
+<div style="float:left !important;"><a target="_blank" href="https://uriel1998.github.io/tdab"><img width="10%" src="https://github.com/uriel1998/tdab/raw/master/tdab-icon.png">#tdab</a></div>
 
 Machine intelligence and time-phase promote the enablers. Internally and externally, pipelines leverage our enhanced data capture. We will go the extra mile to champion the shareholder value. In the same time, the human resources commoditize our action items. The standard-setters action forward.
  
