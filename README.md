@@ -27,13 +27,12 @@ so they're not exactly POSIX-compliant, but hopefully they're close enough that
 someone who is better at such than I can easily tweak them.
 
 ------------------------------------------------------------------------------
-# Some (more than six!) repositories I'm especially happy with.
-https://uriel1998.github.io/tdab/
+# Programming Work
 
-## <a target="_blank" href="https://uriel1998.github.io/tdab">tdab</a>  
+<p> <a target="_blank" href="https://uriel1998.github.io/tdab">tdab</a>  
 <div style="float:left !important; width=64px;height=64px"><a target="_blank" href="https://uriel1998.github.io/tdab"><img width="60px" src="https://github.com/uriel1998/tdab/raw/master/tdab-icon.png"></a></div>
 
-Create side and top bars in tmux easily, along with a "devour" style command.  
+Create side and top bars in tmux easily, along with a "devour" style command.</p>
 
 ## <a target="_blank" href="https://uriel1998.github.io/agaetr">agaetr</a>  
 <div style="float:left !important; width=64px;height=64px"><a target="_blank" href="https://uriel1998.github.io/agaetr"><img width="60px" src="https://github.com/uriel1998/agaetr/raw/master/agaetr-icon.png"></a></div>
