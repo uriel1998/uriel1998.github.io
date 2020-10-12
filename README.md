@@ -29,15 +29,13 @@ someone who is better at such than I can easily tweak them.
 ------------------------------------------------------------------------------
 # Programming Work
 
+<div style="float:left !important; width=64px;height=64px"><a target="_blank" href="https://uriel1998.github.io/tdab"><img width="60px" src="https://github.com/uriel1998/tdab/raw/master/tdab-icon.png"></a></div>
 ## <a target="_blank" href="https://uriel1998.github.io/tdab">tdab</a>  
 
-<p><div style="float:left !important; width=64px;height=64px"><a target="_blank" href="https://uriel1998.github.io/tdab"><img width="60px" src="https://github.com/uriel1998/tdab/raw/master/tdab-icon.png"></a></div>
-
-Create side and top bars in tmux easily, along with a "devour" style command.</p>
-
-## <a target="_blank" href="https://uriel1998.github.io/agaetr">agaetr</a>  
+Create side and top bars in tmux easily, along with a "devour" style command.
 
 <p><div style="float:left !important; width=64px;height=64px"><a target="_blank" href="https://uriel1998.github.io/agaetr"><img width="60px" src="https://github.com/uriel1998/agaetr/raw/master/agaetr-icon.png"></a></div>
+## <a target="_blank" href="https://uriel1998.github.io/agaetr">agaetr</a>  
 
 Modular scripts to take text, images, and links from RSS feeds and push to social media </p>
 
