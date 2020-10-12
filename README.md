@@ -38,7 +38,7 @@ Create side and top bars in tmux easily, along with a "devour" style command.
 
 ## <a target="_blank" href="https://uriel1998.github.io/agaetr">agaetr</a>  
 
-Modular scripts to take text, images, and links from RSS feeds and push to social media </p>
+Modular scripts to take text, images, and links from RSS feeds and push to social media 
 
 <div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/automatic_wondershaper_wombat"><img width="60px" src="https://github.com/uriel1998/automatic_wondershaper_wombat/raw/master/automatic_wondershaper_wombat-icon.png"></a></div>
 
