@@ -50,7 +50,7 @@ A script in bash (with some assorted tools) to collect info about available band
 
 ## <a target="_blank" href="https://uriel1998.github.io/ddwrt-who-is-connected">ddwrt-who-is-connected</a>  
 
-A script to output who all is actively connected to your DD-WRT router 
+Scripts to output who all is actively connected and to programatically open and close port forwards to your DD-WRT router
 
 <div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/khalo"><img width="60px" src="https://github.com/uriel1998/khalo/raw/master/khalo-icon.png"></a></div>
 
