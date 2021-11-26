@@ -28,6 +28,12 @@ someone who is better at such than I can easily tweak them.
 ------------------------------------------------------------------------------
 # Programming Work
 
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/networkcontrol-wicd-networkmanager/"><img width="60px" src="https://github.com/uriel1998/networkcontrol-wicd-networkmanager/blob/master/nmm-icon.png?raw=true"></a></div>
+
+## <a target="_blank" href="https://uriel1998.github.io/networkcontrol-wicd-networkmanager/">network-middle-manager</a>  
+
+I wrote a bash script that - like the defunct Cuttlefish program - runs programs in userspace on network change.
+
 <div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/tdab"><img width="60px" src="https://github.com/uriel1998/tdab/raw/master/tdab-icon.png"></a></div>
 
 ## <a target="_blank" href="https://uriel1998.github.io/tdab">tdab</a>  
