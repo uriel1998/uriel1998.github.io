@@ -7,7 +7,7 @@ design, and programming experience in multiple languages, having self-taught
 myself what I know. I have been a frequent presenter and panelist at both 
 literary and academic conventions, and have professionally formatted and 
 published books in print and electronic formats.  You can read more and find 
-links to the rest of the things I do over at my [main page](https://stevensaus.com), or at my [blog](https://ideatrash.net).  
+links to the rest of the things I do over at my <a rel="me" href="https://stevensaus.com">main page</a>, or at my <a rel="me" href="https://ideatrash.net">blog</a>).  
 
 # Why I code
 
