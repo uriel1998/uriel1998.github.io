@@ -29,11 +29,24 @@ someone who is better at such than I can easily tweak them.
 ------------------------------------------------------------------------------
 # Programming Work
 
-<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/networkcontrol-wicd-networkmanager/"><img width="60px" src="https://github.com/uriel1998/networkcontrol-wicd-networkmanager/blob/master/nmm-icon.png?raw=true"></a></div>
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/agaetr"><img width="60px" src="https://github.com/uriel1998/agaetr/raw/master/agaetr-icon.png"></a></div>
 
-## <a target="_blank" href="https://uriel1998.github.io/networkcontrol-wicd-networkmanager/">network-middle-manager</a>  
+## <a target="_blank" href="https://uriel1998.github.io/agaetr">agaetr</a>  
 
-I wrote a bash script that - like the defunct Cuttlefish program - runs programs in userspace on network change.
+Modular scripts to take text, images, and links from RSS feeds and push to social media 
+
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/mpdq"><img width="60px" src="https://github.com/uriel1998/mpdq/raw/master/mpdq-icon.png"></a></div>
+
+## <a target="_blank" href="https://uriel1998.github.io/mpdq">mpdq</a>  
+
+Automatic MPD "smart playlist" creator in bash with minimal but hackable setup. 
+
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/daywall/"><img width="60px" src="https://github.com/uriel1998/daywall/blob/master/daywall-icon.png?raw=true"></a></div>
+
+## <a target="_blank" href="https://uriel1998.github.io/daywall/">daywall</a>  
+
+This script tries to adjust the brightness of randomly chosen backgrounds to match the time of day.
+
 
 <div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/tdab"><img width="60px" src="https://github.com/uriel1998/tdab/raw/master/tdab-icon.png"></a></div>
 
@@ -41,17 +54,11 @@ I wrote a bash script that - like the defunct Cuttlefish program - runs programs
 
 Create side and top bars in tmux easily, along with a "devour" style command.
 
-<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/agaetr"><img width="60px" src="https://github.com/uriel1998/agaetr/raw/master/agaetr-icon.png"></a></div>
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/networkcontrol-wicd-networkmanager/"><img width="60px" src="https://github.com/uriel1998/networkcontrol-wicd-networkmanager/blob/master/nmm-icon.png?raw=true"></a></div>
 
-## <a target="_blank" href="https://uriel1998.github.io/agaetr">agaetr</a>  
+## <a target="_blank" href="https://uriel1998.github.io/networkcontrol-wicd-networkmanager/">network-middle-manager</a>  
 
-Modular scripts to take text, images, and links from RSS feeds and push to social media 
-
-<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/automatic_wondershaper_wombat"><img width="60px" src="https://github.com/uriel1998/automatic_wondershaper_wombat/raw/master/automatic_wondershaper_wombat-icon.png"></a></div>
-
-## <a target="_blank" href="https://uriel1998.github.io/automatic_wondershaper_wombat">automatic_wondershaper_wombat</a>  
-
-A script in bash (with some assorted tools) to collect info about available bandwidth and to perform traffic shaping  
+I wrote a bash script that - like the defunct Cuttlefish program - runs programs in userspace on network change.
 
 <div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/ddwrt-who-is-connected"><img width="60px" src="https://github.com/uriel1998/ddwrt-who-is-connected/raw/master/ddwrt-who-is-connected-icon.png"></a></div>
 
@@ -65,12 +72,6 @@ Scripts to output who all is actively connected and to programatically open and 
 
 A selfhosted way to create images with quotations using fortune, imgmagick, and 
 unsplash.it to create your own quotation porn.  
-
-<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/mpdq"><img width="60px" src="https://github.com/uriel1998/mpdq/raw/master/mpdq-icon.png"></a></div>
-
-## <a target="_blank" href="https://uriel1998.github.io/mpdq">mpdq</a>  
-
-Automatic MPD "smart playlist" creator in bash with minimal but hackable setup. 
 
 <div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/muna"><img width="60px" src="https://github.com/uriel1998/muna/raw/master/muna-icon.png"></a></div>
 
@@ -108,12 +109,6 @@ Find the right manpage or cheatsheet, easily.
 ## <a target="_blank" href="https://uriel1998.github.io/showdocs-wombat">showdocs-wombat</a>  
 
 Parsing and converting documents on the fly in the terminal (or with a terminal popup) 
-
-<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/skipa"><img width="60px" src="https://github.com/uriel1998/skipa/raw/master/skipa-icon.png"></a></div>
-
-## <a target="_blank" href="https://uriel1998.github.io/skipa">skipa</a>  
-
-BASH/YAD script to Read and fix PDF tags in filenames and exif metadata
 
 <div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/ufw-iptables-archer"><img width="60px" src="https://github.com/uriel1998/ufw-iptables-archer/raw/master/ufw-iptables-archer-icon.png"></a></div>
 
