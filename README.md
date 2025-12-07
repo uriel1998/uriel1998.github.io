@@ -35,6 +35,13 @@ someone who is better at such than I can easily tweak them.
 
 Modular scripts to take text, images, and links from RSS feeds and push to social media 
 
+<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/ytcs"><img width="60px" src="https://github.com/uriel1998/ytcs/raw/master/ytcs-icon.png"></a></div>
+
+## <a target="_blank" href="https://uriel1998.github.io/ytcs">ytcs</a>  
+
+Tying together `yt-dlp`, `mpv`, `rofi`, and RSS to be able to watch subscriptions without feeding the machine.
+
+
 <div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/mpdq"><img width="60px" src="https://github.com/uriel1998/mpdq/raw/master/mpdq-icon.png"></a></div>
 
 ## <a target="_blank" href="https://uriel1998.github.io/mpdq">mpdq</a>  
