@@ -28,6 +28,8 @@ someone who is better at such than I can easily tweak them.
 
 No warranties express or implied.
 
+[![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=uriel1998)](https://github.com/anuraghazra/github-readme-stats)
+
 # Some (more than six!) repositories I'm especially happy with.
 
 <div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/agaetr"><img width="60px" src="https://github.com/uriel1998/agaetr/raw/master/agaetr-icon.png"></a></div>
@@ -86,8 +88,6 @@ Find the right manpage or cheatsheet, easily.
 ## <a target="_blank" href="https://uriel1998.github.io/showdocs-wombat">showdocs-wombat</a>  
 
 Parsing and converting documents on the fly in the terminal (or with a terminal popup) 
-
-<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/ufw-iptables-archer"><img width="60px" src="https://github.com/uriel1998/ufw-iptables-archer/raw/master/ufw-iptables-archer-icon.png"></a></div>
 
 Cards via [GitHub-ReadMe-Stats](https://github.com/anuraghazra/github-readme-stats)  
 
