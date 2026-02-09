@@ -26,6 +26,8 @@ That's led to a lot of these being in BASH.  There's some BASHisms throughout,
 so they're not exactly POSIX-compliant, but hopefully they're close enough that 
 someone who is better at such than I can easily tweak them.
 
+No warranties express or implied.
+
 # Some (more than six!) repositories I'm especially happy with.
 
 <div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/agaetr"><img width="60px" src="https://github.com/uriel1998/agaetr/raw/master/agaetr-icon.png"></a></div>
@@ -62,43 +64,12 @@ Create side and top bars in tmux easily, along with a "devour" style command.
 
 <div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/networkcontrol-wicd-networkmanager/"><img width="60px" src="https://github.com/uriel1998/networkcontrol-wicd-networkmanager/blob/master/nmm-icon.png?raw=true"></a></div>
 
-## <a target="_blank" href="https://uriel1998.github.io/networkcontrol-wicd-networkmanager/">network-middle-manager</a>  
-
-I wrote a bash script that - like the defunct Cuttlefish program - runs programs in userspace on network change.
-
-<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/ddwrt-who-is-connected"><img width="60px" src="https://github.com/uriel1998/ddwrt-who-is-connected/raw/master/ddwrt-who-is-connected-icon.png"></a></div>
-
-## <a target="_blank" href="https://uriel1998.github.io/ddwrt-who-is-connected">ddwrt-who-is-connected</a>  
-
-Scripts to output who all is actively connected and to programatically open and close port forwards to your DD-WRT router
-
-<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/khalo"><img width="60px" src="https://github.com/uriel1998/khalo/raw/master/khalo-icon.png"></a></div>
-
 ## <a target="_blank" href="https://uriel1998.github.io/khalo">khalo</a>  
 
 A selfhosted way to create images with quotations using fortune, imgmagick, and 
 unsplash.it to create your own quotation porn.  
 
 <div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/muna"><img width="60px" src="https://github.com/uriel1998/muna/raw/master/muna-icon.png"></a></div>
-
-## <a target="_blank" href="https://uriel1998.github.io/muna">muna</a>  
-
-Clean a series of links, resolving redirects and finding Wayback results if page is gone 
-
-<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/newsbeuter-dangerzone"><img width="60px" src="https://github.com/uriel1998/newsbeuter-dangerzone/raw/master/dangerzone-icon.png"></a></div>
-
-## <a target="_blank" href="https://uriel1998.github.io/newsbeuter-dangerzone">newsbeuter-dangerzone</a>  
-
-Enhanced, modular, bookmarking for newsboat, newsbeuter, or (for that matter) 
-anything that can pass a title and an URL to a program.
-
-<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/orindi"><img width="60px" src="https://github.com/uriel1998/orindi/raw/master/orindi-icon.png"></a></div>
-
-## <a target="_blank" href="https://uriel1998.github.io/orindi">orindi</a>  
-
-Transform your e-mail newsletters into webpages and an RSS feed.   
-
-<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/ppl_virdirsyncer_addysearch"><img width="60px" src="https://github.com/uriel1998/ppl_virdirsyncer_addysearch/raw/master/pplsearch-icon.png"></a></div>
 
 ## <a target="_blank" href="https://uriel1998.github.io/ppl_virdirsyncer_addysearch">ppl_virdirsyncer_addysearch</a>  
 
@@ -118,83 +89,5 @@ Parsing and converting documents on the fly in the terminal (or with a terminal 
 
 <div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/ufw-iptables-archer"><img width="60px" src="https://github.com/uriel1998/ufw-iptables-archer/raw/master/ufw-iptables-archer-icon.png"></a></div>
 
-## <a target="_blank" href="https://uriel1998.github.io/ufw-iptables-archer">ufw-iptables-archer</a>  
-
-Simplifying (I hope) UFW and iptables, includes a utility to get blocklists and incorporate them. 
-
-<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/vindauga"><img width="60px" src="https://github.com/uriel1998/vindauga/raw/master/vindauga-icon.png"></a></div>
-
-## <a target="_blank" href="https://uriel1998.github.io/vindauga">vindauga</a>  
-
-Download and display album art or display embedded (or folder-based) album art. Designed to work with MPD, the music player daemon.
-
-<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/weather.sh"><img width="60px" src="https://github.com/uriel1998/weather.sh/raw/master/weather-icon.png"></a></div>
-
-## <a target="_blank" href="https://uriel1998.github.io/weather.sh">weather.sh</a>  
-
-A bash script to get the weather from OpenWeatherMap and output to the terminal, Openbox, or HTML 
-
-<div style="float:left !important; width=64px;height=64px;margin=2px;"><a target="_blank" href="https://uriel1998.github.io/yolo-mpd"><img width="60px" src="https://github.com/uriel1998/yolo-mpd/raw/master/yolo-mpd-icon.png"></a></div>
-
-## <a target="_blank" href="https://uriel1998.github.io/yolo-mpd">yolo-mpd</a>  
-
-Various music-related tweaks/tips/scripts. Includes fuzzy selection of artist/genre/album script and albumart in the console script 
-
-
-
 Cards via [GitHub-ReadMe-Stats](https://github.com/anuraghazra/github-readme-stats)  
 
-# Educational Experience
-
-### Master of Arts in Applied Behavioral Science
-
-Wright State University <span>•</span> *June 2009*
-
-### Bachelor of Arts in Sociology
-
-Wright State University <span>•</span> *March 2011*
-
-### Nuclear Medicine Technologist School
-
-Naval School Of Health Sciences <span>•</span> *August 1999*
-
-### Leadership Development Course
-
-Fort Knox Non-Commissioned Officers Academy <span>•</span> *March 2011*
-
-### Radiologic Technologist School
-
-Army Academy of Health Sciences <span>•</span> *June 1995*
-
-# Professional Experience
-
-### Nuclear Medicine Technologist
-
-Miami Valley Hospital, Dayton OH <span>•</span> *2002 - Present*
-
-### Publisher/Owner
-
-Alliteration Ink, Dayton OH <span>•</span> *2011 - 2019*
-
-
-### Programming Director
-
-Context Convention, Fanaco Inc, Columbus OH <span>•</span> *2013 - 2014*
-
-### Adjunct Faculty
-
-Department of Sociology, Wright State University <span>•</span> *2011 -
-2012*
-
-### Interim Supervisor, Nuclear Medicine Department
-
-U.S. Army, Fort Leonard Wood <span>•</span> *2000 - 2002*
-
-### Nuclear Medicine Technologist
-
-U.S. Army, Fort Leonard Wood, MO <span>•</span> *2000 - 2002*
-
-### Interim Supervisor
-
-Nuclear Medicine Department, U.S. Army, Fort Leonard Wood <span>•</span>
-*2000 - 2002*
