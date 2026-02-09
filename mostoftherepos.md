@@ -28,7 +28,7 @@ someone who is better at such than I can easily tweak them.
 
 No warranties express or implied.
 
-[![Steven's GitHub stats](https://raw.githubusercontent.com/uriel1998/uriel1998.github.io/refs/heads/master/profile/stats.svg)  
+![Steven's GitHub stats](https://raw.githubusercontent.com/uriel1998/uriel1998.github.io/refs/heads/master/profile/stats.svg)
 
 # Some (more than six!) repositories I'm especially happy with.
 
